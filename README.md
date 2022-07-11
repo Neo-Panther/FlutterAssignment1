@@ -1,8 +1,8 @@
-# assignment_1_solution
+# Assignment 1 Solution
 
 Solution for assignment 1 of flutter SG
 
-## Note
+### Note
 
 Resize the flutter app window to the correct size (as in th design) to get the best result
 
